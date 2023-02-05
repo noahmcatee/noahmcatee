@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @noahmcatee
-- 👀 I’m interested in movie fandoms
-- 🌱 I’m currently learning devops and SRE tools
-
+- 🌱 I’m currently learning devops, SRE tools, and some python. 
